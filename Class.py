@@ -15,3 +15,7 @@ class Person :
 
 clout = Person(' nana', 27 , 1999) 
 clout.Fun()
+
+# NOTE: The self parameter is a reference to the current instance of the class,
+#       and is used to access variablles that belongs to the class .
+#       it doesnt have to be named "SELF"
